@@ -4,7 +4,6 @@ import videoBackground from './assets/background-video.mp4'; // Add your video f
 import Navbar from './Components/Navbar/Navbar';
 
 function App() {
-  const [count, setCount] = useState(0);
 
   return (
     <>
