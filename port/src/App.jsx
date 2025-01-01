@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './App.css';
-import videoBackground from './assets/background-video.mp4'; // Add your video file here
+import videoBackground from './assets/background-video-1.mp4'; // Add your video file here
 import Navbar from './Components/Navbar/Navbar';
 
 function App() {
